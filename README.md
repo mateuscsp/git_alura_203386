@@ -17,6 +17,6 @@ ssh-keygen -t ed25519 "mateuscsp@live.com" enter enter
 
 abrir chave privada
 
-copiar e colar no git
+copiar e colar no gitg
 
 C:\Users\mateu\OneDrive\Cursocientista\04_engenhariadadospyhtonspark\git_hub
