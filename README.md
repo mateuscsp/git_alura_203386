@@ -1,7 +1,5 @@
 /*videos*/
 
-
-
 repositorio ="https://github.com/mateuscsp/git_203386"
 
 # publico
@@ -125,6 +123,16 @@ colocar a mensagem
 pode fazer mais de 1
 
 realizar o comitt
+
+
+#3 -2
+
+#conflitos
+
+
+
+
+
 
 
 
