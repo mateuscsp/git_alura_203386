@@ -1,15 +1,16 @@
 /*videos*/
 
 
+
 repositorio ="https://github.com/mateuscsp/git_203386"
 
 # publico
 
-# 1 - 4
+#1 - 4
 
 git init - inicializar repositório do Git
 
-# 1 - 5
+#1 - 5
 
 #add arquivos
 
@@ -53,9 +54,9 @@ id_ed25519.pub
 
 git push -u origin main
 
-#2 -1
+#2 - 1
 
-#outras pessoas verem
+#outras pessoas usarem
 
 https://github.com/mateuscsp/git_alura_203386
 
@@ -63,13 +64,67 @@ clone com ssh
 
 git clone git@github.com:mateuscsp/git_alura_203386.git
 
+#2 - 2
+
 #ver alteracoes
 
 git status
 
-#2 - 2
+git add .
 
+git commit -m "Alterações feitas"
 
+git push
+
+#ver os commits
+
+git log
+
+#2 - 3
+
+#outros enviar pra o git hub
+
+ver os repositórios
+
+git remote -v
+
+git push origin main
+
+erro de permissao
+
+adicionando colaborador
+
+settings
+
+collaborators
+
+add people
+
+convite aceitar
+
+git push origin main
+
+#2 - 4
+
+#trazer as modificações
+
+git pull
+
+#3 - 1
+
+#integração git x vscode
+
+3o icone
+
+vai ter M na frente
+
+Add o arquivo
+
+colocar a mensagem
+
+pode fazer mais de 1
+
+realizar o comitt
 
 
 
