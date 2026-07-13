@@ -1,0 +1,21 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA UF
+
+NOTE: Processing inline DATALINES (16 lines)
+
+NOTE: Read 16 rows from DATALINES.
+NOTE: Wrote UF (16 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA UF2
+
+
+NOTE: Read 16 rows from UF.
+NOTE: Wrote UF2 (16 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=UF
+
+NOTE: PROC PRINT completed: 16 observations printed, 2 variables

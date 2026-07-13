@@ -1,0 +1,8 @@
+{
+  "bundle": "t005_do_while_primos",
+  "source_file": "curso.sas",
+  "source_range": "curso.sas L852-885",
+  "source_blob_sha": "ab9fd1713ad713a22ca26bfef72f8e9faaaeea4c",
+  "source_commit": "e1e80d22efd6ccf1636d7dcd3193ebc0aa22016a",
+  "notes": "DATA step prime test: a DO WHILE loop over i<=round(sqrt(n)) using MOD and LEAVE to flag each n prime/not, from inline DATALINES; PROC PRINT added to show the result."
+}

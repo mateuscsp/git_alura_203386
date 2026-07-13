@@ -1,0 +1,8 @@
+{
+  "bundle": "t002_tabulate_impressoras",
+  "source_file": "curso.sas",
+  "source_range": "curso.sas L1225-1249",
+  "source_blob_sha": "ab9fd1713ad713a22ca26bfef72f8e9faaaeea4c",
+  "source_commit": "e1e80d22efd6ccf1636d7dcd3193ebc0aa22016a",
+  "notes": "PROC TABULATE over the \"impressoras\" printer dataset: a three-dimensional cor,tipo,preco table with an OUT= dataset, from inline DATALINES."
+}

@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-13T03:27:00+00:00",
+  "_captured_run_id": "r_397a4ea070e9423fbabb46cad6a08758",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote Paises (10 rows, 5 columns).",
+    "NOTE: PROC REPORT data=PAISES"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

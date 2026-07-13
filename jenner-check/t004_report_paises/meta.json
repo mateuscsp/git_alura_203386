@@ -1,0 +1,8 @@
+{
+  "bundle": "t004_report_paises",
+  "source_file": "curso.sas",
+  "source_range": "curso.sas L1388-1410",
+  "source_blob_sha": "ab9fd1713ad713a22ca26bfef72f8e9faaaeea4c",
+  "source_commit": "e1e80d22efd6ccf1636d7dcd3193ebc0aa22016a",
+  "notes": "PROC REPORT over the \"Paises\" country dataset: two COLUMN reports selecting different variables, from inline DATALINES."
+}

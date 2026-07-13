@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-13T03:27:00+00:00",
+  "_captured_run_id": "r_deb32ee7f8fb42f48c68c251672de9c7",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote BRINQUEDOS (7 rows, 3 columns).",
+    "NOTE: PROC FREQ",
+    "NOTE: PROC FREQ statement used."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

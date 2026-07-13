@@ -1,0 +1,21 @@
+DATA PROC_CORR;
+INFILE DATALINES DLM=' ';
+INPUT ID $ ALTURA PESO;
+DATALINES;
+A1 49 81
+A2 50 88
+A3 53 87
+A4 55 99
+A5 60 91
+A6 55 89
+A7 60 95
+A8 50 90
+;
+RUN;
+
+/*coeficiente de pearson*/
+
+PROC CORR DATA=proc_corr;
+VAR ALTURA ; 
+With peso;
+run;

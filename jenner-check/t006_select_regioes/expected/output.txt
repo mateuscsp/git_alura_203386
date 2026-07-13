@@ -1,0 +1,19 @@
+  Obs  SIGLA               ESTADO
+-----  -----  -------------------
+    1  AL     Alagoas
+    2  BA     Bahia
+    3  CE     Ceará
+    4  ES     Espírito Santo
+    5  MA     Maranhão
+    6  MG     Minas Gerais
+    7  PB     Paraíba
+    8  PE     Pernambuco
+    9  PI     Piauí
+   10  PR     Paraná
+   11  RJ     Rio de Janeiro
+   12  RN     Rio Grande do Norte
+   13  RS     Rio Grande do Sul
+   14  SC     Santa Catarina
+   15  SE     Sergipe
+   16  SP     São Paulo
+
