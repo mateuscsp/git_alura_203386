@@ -1,0 +1,8 @@
+{
+  "bundle": "t007_first_last_regiao",
+  "source_file": "curso.sas",
+  "source_range": "curso.sas L1662-1701",
+  "source_blob_sha": "ab9fd1713ad713a22ca26bfef72f8e9faaaeea4c",
+  "source_commit": "e1e80d22efd6ccf1636d7dcd3193ebc0aa22016a",
+  "notes": "BY-group processing with FIRST./LAST. and RETAIN to accumulate population per region after PROC SORT, from inline DATALINES; PROC PRINT added to show pop_regiao."
+}

@@ -1,0 +1,13 @@
+                    The CORR Procedure
+                            1 Variables:    ALTURA
+                    Simple Statistics
+Variable         N      Mean   Std Dev       Sum   Minimum   Maximum
+--------  --------  --------  --------  --------  --------  --------
+ALTURA           8  54.00000   4.34248  432.00000  49.00000  60.00000
+PESO             8  90.00000   5.37188  720.00000  81.00000  99.00000
+   Pearson Correlation Coefficients, N = 8
+          Prob > |r| under H0: Rho=0
+              ALTURA
+--------  --------
+peso       0.61240
+              .

@@ -1,0 +1,8 @@
+{
+  "bundle": "t006_select_regioes",
+  "source_file": "curso.sas",
+  "source_range": "curso.sas L456-493,517-518",
+  "source_blob_sha": "ab9fd1713ad713a22ca26bfef72f8e9faaaeea4c",
+  "source_commit": "e1e80d22efd6ccf1636d7dcd3193ebc0aa22016a",
+  "notes": "DATA step SELECT/WHEN classifying the 16 UF states into regions (SUDESTE/SUL/NORDESTE/OTHERWISE), reading comma-delimited DATALINES via INFILE DATALINES DSD; PROC PRINT of the source table."
+}

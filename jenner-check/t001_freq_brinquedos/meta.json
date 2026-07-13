@@ -1,0 +1,8 @@
+{
+  "bundle": "t001_freq_brinquedos",
+  "source_file": "curso.sas",
+  "source_range": "curso.sas L1038-1073",
+  "source_blob_sha": "ab9fd1713ad713a22ca26bfef72f8e9faaaeea4c",
+  "source_commit": "e1e80d22efd6ccf1636d7dcd3193ebc0aa22016a",
+  "notes": "PROC FREQ over the \"brinquedos\" toy dataset: one-way frequency tables (TABLES/TABLE forms) and a two-way FABRICANTE*IDADE crosstab, all from inline DATALINES."
+}

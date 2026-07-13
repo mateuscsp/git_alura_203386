@@ -1,0 +1,23 @@
+data impressoras;
+input modelo $ cor tipo $ preco $;
+datalines;
+I001 1 ink-jet >200
+I002 0 laser   100-200
+I003 0 ink-jet 100-200
+I004 1 ink-jet 100-200
+I005 0 laser   >200
+I006 1 ink-jet 100-200
+I007 1 laser   >200
+I008 0 ink-jet 100-200
+I009 0 ink-jet 100-200
+I010 1 laser   >200
+;
+run;
+
+proc tabulate 
+data = impressoras
+out = teste; ;
+class cor tipo preco;
+table cor, tipo, preco;
+title 'total de impressoras'
+;run;

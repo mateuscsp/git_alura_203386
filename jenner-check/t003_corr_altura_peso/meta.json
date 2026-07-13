@@ -1,0 +1,8 @@
+{
+  "bundle": "t003_corr_altura_peso",
+  "source_file": "curso.sas",
+  "source_range": "curso.sas L1362-1382",
+  "source_blob_sha": "ab9fd1713ad713a22ca26bfef72f8e9faaaeea4c",
+  "source_commit": "e1e80d22efd6ccf1636d7dcd3193ebc0aa22016a",
+  "notes": "PROC CORR computing the Pearson coefficient between ALTURA and PESO via VAR/WITH, from inline DATALINES."
+}

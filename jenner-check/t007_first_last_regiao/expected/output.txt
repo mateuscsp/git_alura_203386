@@ -1,0 +1,6 @@
+  Obs   regiao  populacao
+-----  -------  ---------
+    1  Norte       377057
+    2  Sudeste     359555
+    3  Sul        1481019
+
